@@ -1,2 +1,2 @@
-# Odin_project
-Cryptonite_tp
+### MAIN README FILE IS INSIDE MY ODIN_PROJECT FOLDER 
+### NOT THIS ONE
