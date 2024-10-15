@@ -23,6 +23,25 @@ The `<head>` element contains metadata about the page, such as the title, charac
 
 ```html
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Project</title
+</head>
+## 2. Editing and Formatting Text
+
+### Paragraphs (`<p>`)
+The `<p>` element is used to define paragraphs of text.
+
+### Headings (`<h1>` to `<h6>`)
+Headings are used to structure the content, with `<h1>` being the most important (main heading) and `<h6>` being the least.
+
+```html
+<h1>Welcome to My Project</h1>
+<p>This project explains various HTML concepts.</p>
+<h2>Key Features</h2>
+<p>Some features of this project include learning about headings, paragraphs, links, and images.</p>
+
 
 
 
