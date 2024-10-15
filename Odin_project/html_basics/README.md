@@ -23,13 +23,6 @@ The `<head>` element contains metadata about the page, such as the title, charac
 
 ```html
 
-### 2. Editing and Formatting Text
-Paragraphs (<p>)
-The <p> element is used to define paragraphs of text.
-
-Headings (<h1> to <h6>)
-Headings are used to structure the content, with <h1> being the most important (main heading) and <h6> being the least.
-
 
 
 
