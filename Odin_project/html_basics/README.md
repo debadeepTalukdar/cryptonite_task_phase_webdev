@@ -28,6 +28,8 @@ The `<head>` element contains metadata about the page, such as the title, charac
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My Project</title
 </head>
+
+```
 ## 2. Editing and Formatting Text
 
 ### Paragraphs (`<p>`)
@@ -42,7 +44,10 @@ Headings are used to structure the content, with `<h1>` being the most important
 <h2>Key Features</h2>
 <p>Some features of this project include learning about headings, paragraphs, links, and images.</p>
 
-
-
-
-
+```
+### 3.Adding Links and Images
+Links
+To create links to other websites or pages, use the <a> element.
+```html
+<a href="https://example.com">Visit Example</a>
+```
