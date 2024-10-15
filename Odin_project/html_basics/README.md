@@ -53,6 +53,18 @@ To create links to other websites or pages, use the <a> element.
 <h2>Key Features</h2>
 <p>Some features of this project include learning about headings, paragraphs, links, and images.</p>
 ```
+we can also use target attribute to open this to new a page 
+we can use absolute links for linking to external websites.
+we can use relative links for linking to internal pages on the same website.
+### Images
+To display an image, use the <img> element with the src attribute.
+
+```html
+
+<img src="https://example.com/image.jpg" alt="Example Image">
+
+```
+
 
 ### 4. Commit Practices
 Good Commit Practices
