@@ -44,6 +44,13 @@ Headings are used to structure the content, with `<h1>` being the most important
 <h2>Key Features</h2>
 <p>Some features of this project include learning about headings, paragraphs, links, and images.</p>
 ```
+### Text Formatting:
+Bold: Use the <strong> or <b> tag to make text bold.
+Italic: Use the <em> or <i> tag to italicize text
+```html
+<p>This is <strong>bold</strong> and this is <em>italic</em>.</p>
+```
+
 ### 3. Adding Links and Images
 ### Links
 To create links to other websites or pages, use the <a> element.
