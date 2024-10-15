@@ -45,9 +45,17 @@ Headings are used to structure the content, with `<h1>` being the most important
 <p>Some features of this project include learning about headings, paragraphs, links, and images.</p>
 
 ```
-### 3.Adding Links and Images
+###3. Adding Links and Images
 Links
 To create links to other websites or pages, use the <a> element.
+
 ```html
+
 <a href="https://example.com">Visit Example</a>
 ```
+Images
+To display an image, use the <img> element with the src attribute.
+
+html
+Copy code
+<img src="https://example.com/image.jpg" alt="Example Image">
