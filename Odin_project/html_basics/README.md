@@ -43,19 +43,30 @@ Headings are used to structure the content, with `<h1>` being the most important
 <p>This project explains various HTML concepts.</p>
 <h2>Key Features</h2>
 <p>Some features of this project include learning about headings, paragraphs, links, and images.</p>
-
 ```
-###3. Adding Links and Images
-Links
+### 3. Adding Links and Images
+### Links
 To create links to other websites or pages, use the <a> element.
-
 ```html
-
-<a href="https://example.com">Visit Example</a>
+<h1>Welcome to My Project</h1>
+<p>This project explains various HTML concepts.</p>
+<h2>Key Features</h2>
+<p>Some features of this project include learning about headings, paragraphs, links, and images.</p>
 ```
-Images
-To display an image, use the <img> element with the src attribute.
 
-html
+### 4. Commit Practices
+Good Commit Practices
+Write clear, concise commit messages that accurately describe changes.
+Focus each commit on a single feature or task.
+Example of a good commit message:
+
+arduino
 Copy code
-<img src="https://example.com/image.jpg" alt="Example Image">
+Added text formatting and image display functionality.
+Bad Commit Practices
+Avoid vague messages like "Fixed stuff" or "Updated".
+Don’t combine unrelated changes in a single commit.
+Example of a bad commit message:
+
+Copy code
+Updated things
