@@ -21,7 +21,7 @@ HTML:
 </html>
 ```
 
-
+```css
 body {
     font-family: Arial, sans-serif;
     background-color: #e0f7fa;
@@ -34,7 +34,7 @@ h1 {
 p {
     color: #004d40;
 }
-
+```
 ### The Cascade Principle
 The "cascade" defines how CSS rules are applied when multiple styles target the same element. The rules depend on importance, specificity, and source order.
 ```
