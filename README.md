@@ -37,7 +37,7 @@ p {
 ```
 ### The Cascade Principle
 The "cascade" defines how CSS rules are applied when multiple styles target the same element. The rules depend on importance, specificity, and source order.
-```
+```html
 p {
     color: gray; /* Default style */
 }
