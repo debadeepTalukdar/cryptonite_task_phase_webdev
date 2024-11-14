@@ -33,6 +33,21 @@ h1 {
 p {
     color: #004d40;
 }
+```
+### The Cascade Principle
+The "cascade" defines how CSS rules are applied when multiple styles target the same element. The rules depend on importance, specificity, and source order.
+```
+p {
+    color: gray; /* Default style */
+}
 
+.important {
+    color: red !important; /* Higher importance */
+}
+
+#special {
+    color: blue; /* Higher specificity */
+}
+```
 
 
